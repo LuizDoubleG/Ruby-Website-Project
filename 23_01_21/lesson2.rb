@@ -1,3 +1,5 @@
+# Function study
+
 require 'byebug' 
 
 def test(*parameters) # you can assign value to parameter here too eg.: (count = 1)
